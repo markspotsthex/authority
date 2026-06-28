@@ -8,8 +8,8 @@ description: >
   and hidden depths, then writes the results back into the bundle as new or updated OKF files
   (character, subplot, setting, entity, theme). Trigger this skill whenever the user wants to
   flesh out a character, run a character study, develop a character more deeply, or explore who a
-  character really is — even if they say it casually ("let's dig into Rori", "help me figure out
-  what makes Lala tick", "I want to know more about Gary"). Also trigger when the user is building
+  character really is — even if they say it casually ("let's dig into Maya", "help me figure out
+  what makes Jordan tick", "I want to know more about Sam"). Also trigger when the user is building
   out story elements tied to a character (their arc, key scenes, a relationship, a subplot they
   anchor).
 ---
@@ -30,8 +30,8 @@ bundle so nothing is lost.
 
 Before you say anything to the author, read the project silently.
 
-1. Find the OKF bundle. It's typically a sibling directory to the manuscript (e.g., `~/Projects/Nyx`
-   for a project called Nyx). If the user named a project or character, use that to locate the bundle.
+1. Find the OKF bundle. It's typically a sibling directory to the manuscript (e.g., `~/Projects/Thornwood`
+   for a project called Thornwood). If the user named a project or character, use that to locate the bundle.
    If you can't find it, ask the user where the bundle lives.
 
 2. Read `index.md` at the bundle root to understand the world.
@@ -75,15 +75,15 @@ Lead a natural, probing conversation. The goal is to surface:
 ### Dialog discipline
 
 - Ask **one or two questions at a time**. Never dump a list.
-- Tailor questions to what you read. If you already know LaLa wears headphones and pretends to tune
-  out, don't ask "how does she listen?" — ask what she does when she hears something she wasn't
-  supposed to.
+- Tailor questions to what you read. If you already know Jordan uses humor to deflect and pretends
+  not to care, don't ask "how does she handle conflict?" — ask what she does when something actually
+  gets through the deflection.
 - When the author says something rich, **follow it**. A throwaway line ("she was always closer to
   her grandfather") can be the most important thing they've said.
 - Occasionally reflect back: "So it sounds like what's really driving her is X, not Y — is that
   right?" This helps the author hear their own story.
 - Surface **contradictions** gently: "You mentioned she's fiercely independent but also craves
-  Odd's approval — how does she hold those two things at once?"
+  her father's approval — how does she hold those two things at once?"
 - Flag **story potential**: "That backstory with the grandfather might be worth naming as a subplot —
   want to capture that?"
 - Don't rush toward the writing phase. Keep going until the conversation naturally runs dry or the
@@ -103,11 +103,11 @@ Before writing anything, show the author a brief summary of what you plan to add
 ```
 Here's what I'd like to write into the bundle:
 
-Updated: characters/rori.md — expanded Overview with motivation/arc/voice
-New subplot: subplots/rori-and-grandfather.md — her relationship with her maternal grandfather
+Updated: characters/maya.md — expanded Overview with motivation/arc/voice
+New subplot: subplots/maya-and-grandfather.md — her relationship with her maternal grandfather
               shapes her introversion and love of astronomy
-New theme: themes/mirrors-and-echoes.md — characters who reflect others back to them (Rori/BOB,
-            LaLa/Ami)
+New theme: themes/mirrors-and-echoes.md — characters who reflect others back to them (Maya/Echo,
+            Jordan/Eli)
 
 Does this look right? Anything to add or skip?
 ```
@@ -243,5 +243,5 @@ alone and no one's watching?") can unlock a character's interior life in a way t
 every scene with them is written.
 
 The writing you produce for the OKF bundle should reflect that depth. An Overview paragraph that
-reads "Rori is a 14-year-old STEM wizard" is a starting point. After a good study, it should read
+reads "Maya is a 14-year-old STEM wizard" is a starting point. After a good study, it should read
 like a person.
